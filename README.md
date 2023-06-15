@@ -8,6 +8,6 @@
 ### - 🤔 I’m looking for help with finding new role as Backend developer
 ### - 📫 How to reach me: 
 * [Telegram](https://t.me/Bek_Shoyatbekov)
-* [Email](shoyatbekov03032003@gmail.com)
+* Email shoyatbekov03032003@gmail.com
 - ⚡ Fun fact: ...
 

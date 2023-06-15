@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm a Bek Shoyatbekov and Backend developer .
+## Loving Son 🙂, Learner 👨‍🎓 , Software Engineer 👨‍🔬.
 
 ### - 🔭 I’m currently working on my personal projects
 ### - 🌱 I’m currently learning English and Nestjs

@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-
+## I'm a Bek Shoyatbekov who is eager to learn and always tries to enjoy the life its fullness.
 
 Here are some ideas to get you started:
 

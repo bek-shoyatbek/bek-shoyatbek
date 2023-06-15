@@ -11,5 +11,5 @@
 * [Telegram](https://t.me/Bek_Shoyatbekov)
 * Email shoyatbekov03032003@gmail.com
 * [LeetCode](https://leetcode.com/bek_dev_/)
-### - ⚡ Fun fact: I'm a single 🙂
+###  - ⚡ Fun fact: I'm a single 🙂
 

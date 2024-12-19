@@ -1,14 +1,28 @@
-### Hi there 👋
+# Hi there, I'm Bek Shoyatbek! 👋
 
-## Loving Son 🙂, Learner 👨‍🎓 , Software Engineer 👨‍🔬.
+I'm a passionate software developer interested in web development, data science, and open-source projects. I love exploring new technologies and applying them to solve real-world problems. 
 
-### - 🔭 I’m currently working on internal projects
-### - 🌱 I’m currently learning Nestjs and overall backend
-### - 👯 I’m looking to collaborate on open source project that can help me enhance my skills
-### - 📫 How to reach me: 
-* [LinkedIn](https://www.linkedin.com/in/bek-shoyatbek)
-* [Telegram](https://t.me/bek_shoyatbek)
-* [Gmail](shoyatbekov03032003@gmail.com)
-* [LeetCode](https://leetcode.com/bek-shoyatbek)
-###  - ⚡ Fun fact: I'm wrestling with insomnia🙂
+## 🔧 Technologies & Tools
+- **Languages:** JavaScript, Typescript and Golang
+- **Frameworks:** Node.js, React.js, Gin
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools:** Git, Docker, AWS
 
+## 🚀 Projects
+Here are a few projects I've been working on:
+
+- **[Freepiker24bot](https://t.me/freepiker24bot):** Helping designer use freepik.com contents easier.
+- **[Kolesso.uz](https://t.me/kolesso_uz_bot):** Telegram mini app for car accessories.
+- **[words.uz](https://words.uz):** English-Uzbek translator with meaningful examples.
+
+## 📈 GitHub Stats
+![Bek's GitHub stats](https://github-readme-stats.vercel.app/api?username=bek-shoyatbek&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+- **Email:** bekshoyatbek@proton.me
+- **LinkedIn:** [Bek Shoyatbek](https://www.linkedin.com/in/bek-shoyatbek/)
+- **Twitter:** [@bek_shoyatbek](https://twitter.com/bek_shoyatbekov)
+
+Feel free to reach out if you have any questions or just want to connect!
+
+Thanks for visiting my profile! 😊
